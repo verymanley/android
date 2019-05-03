@@ -1,7 +1,7 @@
 # android
 
 ![Status - Stable](https://img.shields.io/badge/Status-Unstable-red.svg)
-![java - v3.6](https://img.shields.io/badge/java-blue.svg)
+![Java](https://img.shields.io/badge/Java-blue.svg)
 
 ## android v0.02
 
